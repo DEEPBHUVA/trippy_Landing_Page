@@ -1,0 +1,18 @@
+.about-con{
+    margin: 4rem 6rem;
+    text-align: start;
+}
+
+.about-con h1{
+    padding-bottom: 1rem;
+}
+
+.about-con p{
+    padding-bottom: 2rem;
+}
+
+@media screen and(max-width:850px) {
+    .about-con{
+        margin: 4rem 2rem;
+    }
+}
